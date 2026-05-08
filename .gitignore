@@ -1,0 +1,16 @@
+# Dependencias (la carpeta que pesa 1GB y no queremos en Git)
+node_modules/
+
+# Archivos de log de NPM (si algo explota)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema (el rastro de tu PC de 8 años)
+.DS_Store
+Thumbs.db
+
+# Configuración de editores (VSCode, etc)
+.vscode/
+.idea/
+*.swp

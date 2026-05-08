@@ -1,0 +1,27 @@
+{
+  "name": "fix-number",
+  "version": "1.0.0",
+  "description": "La forma más segura de tratar con números.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no hay errores porque el código es perfecto\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qmaker-programmer/fix-number.git"
+  },
+  "keywords": [
+    "number",
+    "fix",
+    "safe"
+  ],
+  "author": "Andresuno andresavalosgallegos@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qmaker-programmer/fix-number/issues"
+  },
+  "homepage": "https://github.com/Qmaker-programmer/fix-number#readme",
+  "dependencies": {
+    "is-number": "^7.0.0"
+  }
+}

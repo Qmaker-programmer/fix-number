@@ -1,5 +1,5 @@
 {
-  "name": "fix-number",
+  "name": "@andresuno5/fix-number",
   "version": "1.0.0",
   "description": "La forma más segura de tratar con números.",
   "main": "index.js",
@@ -15,8 +15,11 @@
     "fix",
     "safe"
   ],
-  "author": "Andresuno andresavalosgallegos@gmail.com",
+  "author": "Andresuno",
   "license": "MIT",
+  "publishConfig": {
+      "access": "public"
+    },
   "bugs": {
     "url": "https://github.com/Qmaker-programmer/fix-number/issues"
   },

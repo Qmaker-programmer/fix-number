@@ -30,6 +30,6 @@ AndrésUno (2026-05-08)
 
 # **Si quiere probar la mega-eficiencia, use**:
 ```sh
-npm server.js && sudo apt install hey && hey -n 9999 -c 100 https:localhost:3000
+node server.js && sudo apt install hey && hey -n 9999 -c 100 https:localhost:3000
 ```
 **:)**
